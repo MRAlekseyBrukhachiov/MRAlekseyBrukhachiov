@@ -7,7 +7,7 @@
 
 ### Обо мне:
 - Я начинающий Frontend разработчик. Со средней школы занимался программированием, участвовал в олимпиадах городского и регионального уровней. Начинал свой путь с изучения Java. Потом перешёл на написание простейших сайтов HTML, CSS.
-- Проходил курсы HyperSkill, Udemy
+- Проходил курсы: HyperSkill, Udemy, DevOps - инженер с нуля (РТУ МИРЭА, ПАО «Ростелеком», Технологии DevOps)
 - Во Frontend меня привлекает наглядность разработки и непосредственное общение с пользователем через написание элементов интерфейса.
 - В свободное время занимаюсь саморазвитием, люблю активный отдых и поход в спортзал ✨
 
@@ -21,7 +21,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-AlekseyBryukhachiov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/drug_alesha) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alekseybryukhachyov2002@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRAlekseyBrukhachiov&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRAlekseyBrukhachiov&layout=compact&theme=vision-friendly-dark)
 
 <!--
 **MRAlekseyBrukhachiov/MRAlekseyBrukhachiov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
